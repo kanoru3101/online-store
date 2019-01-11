@@ -1,0 +1,41 @@
+.root{
+    flex-grow: 1;
+}
+.typography {
+    padding-right: 30px;
+    color: #3f51b5;
+    font-weight: bold;
+}
+
+.list{
+    display: flex;
+    flex-direction: row;
+    padding: 0
+}
+.cart{
+    text-decoration: none;
+    color: #009688;
+    font-weight: bold;
+}
+
+.cartMedia{
+    max-width: 220px;
+    max-height: 70px;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+.toolBarBottom{
+    background-color: #e7efcdfa;
+}
+
+.btn{
+    max-width: 45px;
+    max-height: 45px;
+    min-width: 30px;
+    min-height: 30px;
+    margin-bottom: 10px;
+}

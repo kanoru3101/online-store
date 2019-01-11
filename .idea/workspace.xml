@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d91c53b0-e044-4126-bb4c-8e6083b71819" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Modal/Modal.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2431">
+              <caret line="155" column="37" selection-start-line="155" selection-start-column="37" selection-end-line="155" selection-end-column="37" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/scenes/Cart/CartContainer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="714">
+              <caret line="48" column="15" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200991">
+              <caret line="11823" column="11" selection-start-line="11823" selection-start-column="11" selection-end-line="11823" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/Header/Header.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="901">
+              <caret line="69" column="26" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#40#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/SearchComponent/SearchComponent.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/SearchComponent/SearchComponentView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2720">
+              <caret line="168" column="15" selection-start-line="168" selection-start-column="15" selection-end-line="168" selection-end-column="15" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>containerProps</find>
+      <find>options</find>
+      <find>inputProps</find>
+      <find>renderSuggestion</find>
+      <find>list</find>
+      <find>getSuggestionValue</find>
+      <find>location</find>
+      <find>export</find>
+      <find>inputInput</find>
+      <find>style</find>
+      <find>ADD</find>
+      <find>ids</find>
+      <find>ref</find>
+      <find>set</find>
+      <find>isModal</find>
+      <find>styles</find>
+      <find>Rows</find>
+      <find>subheading</find>
+      <find>title</find>
+      <find>page</find>
+      <find>label</find>
+      <find>mater</find>
+      <find>material-ui-pickers</find>
+      <find>typography</find>
+      <find>materi</find>
+      <find>material-ui-</find>
+      <find>s.</find>
+      <find>jss@</find>
+      <find>/es</find>
+      <find>cart</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Ok</replace>
+      <replace>OK</replace>
+      <replace>SearchComponent</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="task6" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/components/Footer/Footer.js" />
+        <option value="$PROJECT_DIR$/src/components/ProductLink/ProductLink.module.css" />
+        <option value="$PROJECT_DIR$/src/components/ProductLink/UserProductLink.js" />
+        <option value="$PROJECT_DIR$/src/scenes/Home/UserProductListView.js" />
+        <option value="$PROJECT_DIR$/src/components/ProductLink/UserProductLink.module.css" />
+        <option value="$PROJECT_DIR$/src/components/ProductLink/UserProductLink/UserProductLink.module.css" />
+        <option value="$PROJECT_DIR$/src/components/Footer/Footer.module.css" />
+        <option value="$PROJECT_DIR$/src/scenes/Home/ProductListView.js" />
+        <option value="$PROJECT_DIR$/src/modules/search/searchAction.js" />
+        <option value="$PROJECT_DIR$/src/modules/search/searchConstans.js" />
+        <option value="$PROJECT_DIR$/src/modules/rootModule.js" />
+        <option value="$PROJECT_DIR$/src/modules/search/searchReducer.js" />
+        <option value="$PROJECT_DIR$/src/modules/search/searchActions.js" />
+        <option value="$PROJECT_DIR$/src/modules/search/searchOperations.js" />
+        <option value="$PROJECT_DIR$/src/components/Header/SearchComponent.js" />
+        <option value="$PROJECT_DIR$/src/scenes/ProductPage/ProductPage.js" />
+        <option value="$PROJECT_DIR$/src/components/Header/SOME.js" />
+        <option value="$PROJECT_DIR$/src/components/Header/SearchComponent/SearchComponent.js" />
+        <option value="$PROJECT_DIR$/src/components/SearchComponent/ItemSuggestionView.js" />
+        <option value="$PROJECT_DIR$/src/modules/search/searchSelectors.js" />
+        <option value="$PROJECT_DIR$/src/components/SearchComponent/RenderInputComponent.js" />
+        <option value="$PROJECT_DIR$/src/components/SearchComponent/SearchComponent.module.css" />
+        <option value="$PROJECT_DIR$/src/components/SearchComponent/RenderSuggestionView.js" />
+        <option value="$PROJECT_DIR$/src/components/SearchComponent/SearchComponentView.js" />
+        <option value="$PROJECT_DIR$/src/modules/cart/cartConstants.js" />
+        <option value="$PROJECT_DIR$/src/modules/cart/cartActions.js" />
+        <option value="$PROJECT_DIR$/src/modules/cart/cartOperations.js" />
+        <option value="$PROJECT_DIR$/src/modules/cart/cartReducer.js" />
+        <option value="$PROJECT_DIR$/src/modules/cart/cartSelectors.js" />
+        <option value="$PROJECT_DIR$/src/modules/entities/entitiesReducer.js" />
+        <option value="$PROJECT_DIR$/src/scenes/Cart/CartContainer.js" />
+        <option value="$PROJECT_DIR$/src/components/Modal/ModalView.js" />
+        <option value="$PROJECT_DIR$/src/scenes/Home/HomeProductsView.js" />
+        <option value="$PROJECT_DIR$/src/components/ProductLink/UserProductLink/UserProductLink.js" />
+        <option value="$PROJECT_DIR$/src/scenes/Cart/CartList.js" />
+        <option value="$PROJECT_DIR$/src/scenes/Cart/CartListView.js" />
+        <option value="$PROJECT_DIR$/src/scenes/Home/OldHomeContainer.js" />
+        <option value="$PROJECT_DIR$/src/components/ProductLink/UserProductLink/UserProductLinkView.js" />
+        <option value="$PROJECT_DIR$/src/components/Header/SingIn.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/src/scenes/Home/HomeContainer.js" />
+        <option value="$PROJECT_DIR$/src/components/TablePaginationActions/TablePaginationActions.js" />
+        <option value="$PROJECT_DIR$/src/components/TablePaginationActions/RenderNumberPages.js" />
+        <option value="$PROJECT_DIR$/static.json" />
+        <option value="$PROJECT_DIR$/src/layouts/Desktop.js" />
+        <option value="$PROJECT_DIR$/src/api/Api.js" />
+        <option value="$PROJECT_DIR$/src/components/Header/Header.js" />
+        <option value="$PROJECT_DIR$/src/components/SearchComponent/SearchComponent.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/src/components/Modal/Modal.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="22" />
+    <option name="y" value="141" />
+    <option name="width" value="1346" />
+    <option name="height" value="588" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Header" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="TablePaginationActions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="cart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="entities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scenes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scenes" type="462c0819:PsiDirectoryNode" />
+              <item name="AdminPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scenes" type="462c0819:PsiDirectoryNode" />
+              <item name="Auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scenes" type="462c0819:PsiDirectoryNode" />
+              <item name="Cart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scenes" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="scenes" type="462c0819:PsiDirectoryNode" />
+              <item name="ProductPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="store" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="SingIn&#9;FILE&#9;file://E:/React/online-store/src/components/Header/SingIn.js&#10;subheading&#9;null&#9;null&#10;App&#9;FILE&#9;file://E:/React/online-store/src/App.js&#10;Modal&#9;FILE&#9;file://E:/React/online-store/src/components/Modal/Modal.js&#10;Sear&#9;FILE&#9;file://E:/React/online-store/src/components/SearchComponent/SearchComponentView.js&#10;SearchCompone&#9;FILE&#9;file://E:/React/online-store/src/components/SearchComponent/SearchComponent.js&#10;Add&#9;FILE&#9;file://E:/React/online-store/src/scenes/AdminPage/AddProduct.js&#10;Search&#9;FILE&#9;file://E:/React/online-store/src/components/SearchComponent/SearchComponent.js&#10;Des&#9;FILE&#9;file://E:/React/online-store/src/layouts/Desktop.js&#10;Head&#9;FILE&#9;file://E:/React/online-store/src/components/Header/Header.js&#10;Ap&#9;FILE&#9;file://E:/React/online-store/src/api/Api.js&#10;Home&#9;FILE&#9;file://E:/React/online-store/src/scenes/Home/HomeContainer.js&#10;Foo&#9;FILE&#9;file://E:/React/online-store/src/components/Footer/Footer.js&#10;Hea&#9;FILE&#9;file://E:/React/online-store/src/components/Header/Header.js&#10;Header&#9;null&#9;null&#10;Admin&#9;FILE&#9;file://E:/React/online-store/src/scenes/AdminPage/AdminContainer.js&#10;Edit&#9;FILE&#9;file://E:/React/online-store/src/scenes/EditProduct/EditProductContainer.js&#10;add&#9;FILE&#9;file://E:/React/online-store/src/scenes/AdminPage/AddProduct.js&#10;Card&#9;FILE&#9;file://E:/React/online-store/node_modules/@material-ui/core/Card/Card.js&#10;modal/M&#9;FILE&#9;file://E:/React/online-store/src/components/Modal/Modal.js&#10;modal&#9;null&#9;null&#10;AdminEdit&#9;FILE&#9;file://E:/React/online-store/src/scenes/AdminPage/AdminEditUser.js&#10;auth&#9;FILE&#9;file://E:/React/online-store/src/scenes/Auth/AuthPage.js&#10;Api&#9;FILE&#9;file://E:/React/online-store/src/api/Api.js&#10;admin&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/scenes/AdminPage/AdminContainer.js&#10;Contact&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/scenes/Contact/ContactPage.js&#10;usersC&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/modules/users/usersConstants.js&#10;users&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/modules/users/usersActions.js&#10;productRe&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/modules/products/productsReducer.js&#10;product&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/modules/products/productsReducer.js&#10;products&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/modules/products/productsOperations.js&#10;productre&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/modules/products/productsReducer.js&#10;localhost&#9;null&#9;null&#10;fo&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/components/Footer/Footer.js&#10;Edi&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/scenes/EditProduct/EditProductContainer.js&#10;contac&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/scenes/Contact/ContactPage.js&#10;edit&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/scenes/EditProduct/EditProductContainer.js&#10;Mod&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/components/Modal/Modal.js&#10;produ&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/modules/products/productsOperations.js&#10;ad&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/scenes/AdminPage/AdminContainer.js&#10;he&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/components/Header/Header.js&#10;api&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/api/Api.js&#10;Фз&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/App.js&#10;admi&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/scenes/AdminPage/AdminContainer.js&#10;index&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/index.css&#10;User&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/components/ProductView/UserProductView.js&#10;login&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/components/SingInForms/LoginForm.js&#10;фзш&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/api/Api.js&#10;foo&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/components/Footer/Footer.js&#10;reg&#9;FILE&#9;file://E:/React/Apiko Fall Intensive/online-store/src/components/SingInForms/RegisterForm.js" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.karma.karma_node_package_dir" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="E:\React\Apiko Fall Intensive\online-store\node_modules\eslint" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="E:\React\Apiko Fall Intensive\online-store\node_modules\prettier" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.splitter.proportion" value="0.23442137" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2018.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\React\online-store\src\components" />
+      <recent name="E:\React\online-store\src\components\Header\SearchComponent" />
+      <recent name="E:\React\online-store\src\components\ProductLink\AdminProductLink" />
+      <recent name="E:\React\online-store\src\components\ProductLink\UserProductLink" />
+      <recent name="E:\React\Apiko Fall Intensive\online-store\src\scenes\AdminPage" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\React\Apiko Fall Intensive\online-store\src\scenes\Home" />
+      <recent name="E:\React\Apiko Fall Intensive\online-store\src\scenes\ProductPage" />
+      <recent name="E:\React\Apiko Fall Intensive\online-store\src\components\ProductLink" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d91c53b0-e044-4126-bb4c-8e6083b71819" name="Default Changelist" comment="" />
+      <created>1540204104226</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540204104226</updated>
+      <workItem from="1540204107464" duration="49524000" />
+      <workItem from="1540387895820" duration="15303000" />
+      <workItem from="1540457114153" duration="11175000" />
+      <workItem from="1540633388866" duration="1886000" />
+      <workItem from="1540637465100" duration="16300000" />
+      <workItem from="1540717203200" duration="96714000" />
+      <workItem from="1541499480734" duration="14654000" />
+      <workItem from="1541584719867" duration="35470000" />
+      <workItem from="1541626193667" duration="1248000" />
+      <workItem from="1541665822831" duration="59057000" />
+      <workItem from="1541938539103" duration="24513000" />
+      <workItem from="1542014797431" duration="43901000" />
+      <workItem from="1542139233788" duration="2832000" />
+      <workItem from="1542204595048" duration="16452000" />
+      <workItem from="1542272485860" duration="1263000" />
+      <workItem from="1542282012380" duration="30254000" />
+      <workItem from="1542365274825" duration="42713000" />
+      <workItem from="1542471112920" duration="9155000" />
+      <workItem from="1542537813975" duration="118249000" />
+      <workItem from="1543833193216" duration="7951000" />
+      <workItem from="1543929344912" duration="8311000" />
+      <workItem from="1544100577907" duration="21387000" />
+      <workItem from="1544169634042" duration="22720000" />
+      <workItem from="1544266913266" duration="7977000" />
+      <workItem from="1544358234542" duration="978000" />
+      <workItem from="1544440958295" duration="33277000" />
+      <workItem from="1544628931142" duration="782000" />
+      <workItem from="1544710018239" duration="22755000" />
+      <workItem from="1544783719307" duration="19769000" />
+      <workItem from="1544888363954" duration="36617000" />
+      <workItem from="1545049148621" duration="4354000" />
+      <workItem from="1545064284367" duration="7779000" />
+      <workItem from="1545327619296" duration="7830000" />
+      <workItem from="1545383273742" duration="15767000" />
+      <workItem from="1545480800744" duration="14240000" />
+      <workItem from="1545597047405" duration="2726000" />
+      <workItem from="1546787516106" duration="18472000" />
+      <workItem from="1547220327891" duration="249000" />
+    </task>
+    <task id="LOCAL-00036" summary="add pagination for home page">
+      <created>1542750854736</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1542750854736</updated>
+    </task>
+    <task id="LOCAL-00037" summary="add pagination for home page">
+      <created>1542751466300</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1542751466300</updated>
+    </task>
+    <task id="LOCAL-00038" summary="add pagination for Home page">
+      <created>1542799990815</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1542799990815</updated>
+    </task>
+    <task id="LOCAL-00039" summary="fixed product page and edit page">
+      <created>1542802740946</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1542802740946</updated>
+    </task>
+    <task id="LOCAL-00040" summary="add pagination for users at Admin Page">
+      <created>1542814761647</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1542814761647</updated>
+    </task>
+    <task id="LOCAL-00041" summary="add fetch products by Ids">
+      <created>1542816179553</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1542816179553</updated>
+    </task>
+    <task id="LOCAL-00042" summary="add number filter for price at Add product page">
+      <created>1542820763043</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1542820763043</updated>
+    </task>
+    <task id="LOCAL-00043" summary="add number filter for price at Add product page">
+      <created>1542820774076</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1542820774076</updated>
+    </task>
+    <task id="LOCAL-00044" summary="fixed number for price at add page">
+      <created>1542821107436</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1542821107436</updated>
+    </task>
+    <task id="LOCAL-00045" summary="fixed api">
+      <created>1542822380178</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1542822380178</updated>
+    </task>
+    <task id="LOCAL-00046" summary="fixed api">
+      <created>1542822680076</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1542822680076</updated>
+    </task>
+    <task id="LOCAL-00047" summary="fixed api">
+      <created>1543938070202</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1543938070202</updated>
+    </task>
+    <task id="LOCAL-00048" summary="hide password at login and register">
+      <created>1543946900283</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1543946900283</updated>
+    </task>
+    <task id="LOCAL-00049" summary="rewrite on recompose: ModalContainer, RememberPass">
+      <created>1544110571812</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1544110571812</updated>
+    </task>
+    <task id="LOCAL-00050" summary="rewrite on recompose ModalContainer Add Product">
+      <created>1544118498493</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1544118498494</updated>
+    </task>
+    <task id="LOCAL-00051" summary="rewrite at recompose: Edit User">
+      <created>1544123397178</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1544123397179</updated>
+    </task>
+    <task id="LOCAL-00052" summary="rewrite at recompose: Auth Page">
+      <created>1544126701619</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1544126701619</updated>
+    </task>
+    <task id="LOCAL-00053" summary="rewrite at recompose: Edit Product Admin">
+      <created>1544193920527</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1544193920527</updated>
+    </task>
+    <task id="LOCAL-00054" summary="rewrite at recompose: Product Page">
+      <created>1544210832863</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1544210832863</updated>
+    </task>
+    <task id="LOCAL-00055" summary="rewrite at recompose: Home Container">
+      <created>1544212148106</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1544212148106</updated>
+    </task>
+    <task id="LOCAL-00056" summary="fixed Update rows and pages at Home Container and Admin Container">
+      <created>1544262443272</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1544262443272</updated>
+    </task>
+    <task id="LOCAL-00057" summary="fixed proxy">
+      <created>1544267910463</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1544267910463</updated>
+    </task>
+    <task id="LOCAL-00058" summary="fixed proxy">
+      <created>1544268062286</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1544268062286</updated>
+    </task>
+    <task id="LOCAL-00059" summary="fixed proxy">
+      <created>1544271850080</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1544271850080</updated>
+    </task>
+    <task id="LOCAL-00060" summary="fixed proxy">
+      <created>1544272744136</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1544272744136</updated>
+    </task>
+    <task id="LOCAL-00061" summary="fixed proxy">
+      <created>1544272815656</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1544272815656</updated>
+    </task>
+    <task id="LOCAL-00062" summary="readme">
+      <created>1544358611754</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1544358611755</updated>
+    </task>
+    <task id="LOCAL-00063" summary="change style Header">
+      <created>1544460755937</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1544460755938</updated>
+    </task>
+    <task id="LOCAL-00064" summary="change style Header">
+      <created>1544460817941</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1544460817941</updated>
+    </task>
+    <task id="LOCAL-00065" summary="change style for Home page by Product cards">
+      <created>1544556870064</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1544556870064</updated>
+    </task>
+    <task id="LOCAL-00066" summary="change style for Home page by Product cards">
+      <created>1544557268393</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1544557268393</updated>
+    </task>
+    <task id="LOCAL-00067" summary="change style for Home page by Product cards">
+      <created>1544557401040</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1544557401040</updated>
+    </task>
+    <task id="LOCAL-00068" summary="add search">
+      <created>1544906189426</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1544906189431</updated>
+    </task>
+    <task id="LOCAL-00069" summary="add styles for search">
+      <created>1544989302677</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1544989302677</updated>
+    </task>
+    <task id="LOCAL-00070" summary="add button all results at search">
+      <created>1545065543327</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1545065543327</updated>
+    </task>
+    <task id="LOCAL-00071" summary="change logic at Cart">
+      <created>1545396251611</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1545396251612</updated>
+    </task>
+    <task id="LOCAL-00072" summary="delete unused modules">
+      <created>1545398697241</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1545398697241</updated>
+    </task>
+    <task id="LOCAL-00073" summary="add to link to product at CartItem">
+      <created>1545407233680</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1545407233680</updated>
+    </task>
+    <task id="LOCAL-00074" summary="add to link to product at CartItem">
+      <created>1546789652318</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1546789652319</updated>
+    </task>
+    <task id="LOCAL-00075" summary="fixed heroku api">
+      <created>1546789875212</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1546789875212</updated>
+    </task>
+    <task id="LOCAL-00076" summary="fixed heroku api">
+      <created>1546798658582</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1546798658582</updated>
+    </task>
+    <task id="LOCAL-00077" summary="fixed stylles">
+      <created>1546804556597</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1546804556597</updated>
+    </task>
+    <task id="LOCAL-00078" summary="fixed stylles">
+      <created>1546806652998</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1546806652998</updated>
+    </task>
+    <task id="LOCAL-00079" summary="fixed stylles">
+      <created>1546808661376</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1546808661376</updated>
+    </task>
+    <task id="LOCAL-00080" summary="fixed stylles">
+      <created>1546808820857</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1546808820857</updated>
+    </task>
+    <task id="LOCAL-00081" summary="fixed stylles">
+      <created>1546854090624</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1546854090630</updated>
+    </task>
+    <task id="LOCAL-00082" summary="fixed stylles">
+      <created>1546855627469</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1546855627469</updated>
+    </task>
+    <task id="LOCAL-00083" summary="fixed stylles">
+      <created>1546856040138</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1546856040138</updated>
+    </task>
+    <task id="LOCAL-00084" summary="fixed stylles">
+      <created>1546856462417</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1546856462417</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="861547000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6912752" visible="true" weight="0.20684524" />
+      <window_info id="Structure" order="1" sideWeight="0.50163937" side_tool="true" weight="0.19419643" />
+      <window_info id="npm" order="2" sideWeight="0.30872482" side_tool="true" weight="0.20684524" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="0" weight="0.3295082" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.48958334" weight="0.38625205" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.57589287" weight="0.40261865" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4985119" weight="0.3295082" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49702382" weight="0.61702126" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5811012" side_tool="true" weight="0.6579378" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.41889882" visible="true" weight="0.44844517" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49479166" weight="0.4442623" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6912752" visible="true" weight="0.20684524" />
+      <window_info id="Structure" order="1" sideWeight="0.50163937" side_tool="true" weight="0.19419643" />
+      <window_info id="npm" order="2" sideWeight="0.30872482" side_tool="true" weight="0.20684524" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" order="0" weight="0.3295082" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.48958334" weight="0.24386252" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.57589287" weight="0.5613748" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4985119" weight="0.3295082" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49702382" weight="0.6967213" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5811012" side_tool="true" weight="0.6579378" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.41889882" weight="0.06382979" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" sideWeight="0.49479166" visible="true" weight="0.4442623" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fixed header" />
+    <MESSAGE value="add number filter for price at Add product page" />
+    <MESSAGE value="fixed number for price at add page" />
+    <MESSAGE value="fixed api" />
+    <MESSAGE value="hide password at login and register" />
+    <MESSAGE value="rewrite on recompose: ModalContainer, RememberPass" />
+    <MESSAGE value="rewrite on recompose ModalContainer Add Product" />
+    <MESSAGE value="rewrite at recompose: Edit User" />
+    <MESSAGE value="rewrite at recompose: Auth Page" />
+    <MESSAGE value="rewrite at recompose: Edit Product Admin" />
+    <MESSAGE value="rewrite at recompose: Product Page" />
+    <MESSAGE value="rewrite at recompose: Home Container" />
+    <MESSAGE value="fixed Update rows and pages at Home Container and Admin Container" />
+    <MESSAGE value="fixed proxy" />
+    <MESSAGE value="readme" />
+    <MESSAGE value="change style Header" />
+    <MESSAGE value="change style for Home page by Product cards" />
+    <MESSAGE value="add search" />
+    <MESSAGE value="add styles for search" />
+    <MESSAGE value="add button all results at search" />
+    <MESSAGE value="change logic at Cart" />
+    <MESSAGE value="delete unused modules" />
+    <MESSAGE value="add to link to product at CartItem" />
+    <MESSAGE value="fixed heroku api" />
+    <MESSAGE value="fixed stylles" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed stylles" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/node_modules/@types/react/index.d.ts</url>
+          <line>308</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/modules/search/searchActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/search/searchOperations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-autosuggest/dist/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-autosuggest/dist/Autosuggest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="52" column="4" selection-start-line="52" selection-start-column="4" selection-end-line="52" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/rootModule.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/search/searchReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/ProductPage/ProductPage.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-365">
+          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/MenuItem/MenuItem.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/products/productsSelectors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SearchComponent/RenderInputComponent.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/FormInput/FormInput.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SearchComponent/SearchComponent.module.css" />
+    <entry file="file://$PROJECT_DIR$/src/modules/search/searchSelectors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SearchComponent/RenderSuggestionView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/AdminPage/AddProduct.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-935">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/products/productsOperations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/AdminPage/AdminContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5013">
+          <caret line="295" column="30" selection-start-line="295" selection-start-column="30" selection-end-line="295" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/entities/entitiesReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="15" column="3" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/cart/cartActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/cart/cartConstants.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="62" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/cart/cartReducer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="58" column="16" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/cart/cartSelectors.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/cart/cartOperations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Modal/ModalView.js" />
+    <entry file="file://$PROJECT_DIR$/src/components/ProductLink/UserProductLink/UserProductLink.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="54" selection-end-line="5" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Cart/CartListView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10" column="62" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Home/HomeProductsView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/ProductLink/UserProductLink/UserProductLinkView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="89" column="76" selection-start-line="89" selection-start-column="76" selection-end-line="89" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/es/styles/createTypography.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="114" column="6" selection-start-line="114" selection-start-column="6" selection-end-line="114" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/CardHeader/CardHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/SingIn.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="36" column="25" lean-forward="true" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="90" lean-forward="true" selection-start-line="5" selection-start-column="90" selection-end-line="5" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/TablePaginationActions/TablePaginationActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="73" column="15" selection-start-line="73" selection-start-column="15" selection-end-line="73" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/TablePaginationActions/RenderNumberPages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="35" column="69" selection-start-line="35" selection-start-column="69" selection-end-line="35" selection-end-column="69" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy.js" />
+    <entry file="file://$PROJECT_DIR$/src/scenes/Home/OldHomeContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="43" column="39" lean-forward="true" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/SOME.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="164" column="35" selection-start-line="164" selection-start-column="35" selection-end-line="164" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Cart/CartList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-88">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="62" selection-start-line="8" selection-start-column="62" selection-end-line="8" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Home/HomeContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="98" column="49" selection-start-line="98" selection-start-column="49" selection-end-line="98" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/layouts/Desktop.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-457">
+          <caret line="89" column="13" selection-start-line="89" selection-start-column="13" selection-end-line="89" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/Header.module.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="20" selection-start-line="20" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/Api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Modal/Modal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="155" column="37" selection-start-line="155" selection-start-column="37" selection-end-line="155" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/Cart/CartContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="48" column="15" selection-start-line="48" selection-start-column="15" selection-end-line="48" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200991">
+          <caret line="11823" column="11" selection-start-line="11823" selection-start-column="11" selection-end-line="11823" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="69" column="26" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#40#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SearchComponent/SearchComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="42" column="43" selection-start-line="42" selection-start-column="43" selection-end-line="42" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SearchComponent/SearchComponentView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2720">
+          <caret line="168" column="15" selection-start-line="168" selection-start-column="15" selection-end-line="168" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="51" column="4" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

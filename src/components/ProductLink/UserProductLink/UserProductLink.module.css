@@ -1,0 +1,39 @@
+a{
+    text-decoration: none;
+}
+
+.image{
+    max-height: 150px;
+    max-width: 150px;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+.description{
+    text-align: justify;
+}
+
+.cartHover{
+    justify-content: center;
+}
+
+
+.container{
+    min-height: 310px;
+}
+
+.container:hover{
+    position: absolute;
+    z-index: 1;
+    box-shadow: 1px 1px 10px #009688;
+    transform: scale(1.1, 1.1);
+}
+
+.titleProduct:hover{
+    color: #F57C00;
+}
+
+.grid{
+    padding: 0;
+    position: relative;
+}

@@ -1,0 +1,75 @@
+
+.itemAdmin {
+    padding: 5px;
+    background-color: #d3d2d3;
+    text-decoration: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    max-width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+
+.containerUser{
+    border: 1px solid black;
+}
+
+.boxProduct{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 0;
+}
+
+
+
+.rowStyle{
+    padding-left: 0;
+    padding-right: 0;
+
+}
+
+
+.divImage{
+    justify-items: center;
+    align-self: center;
+    padding-top: 20px;
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.divText{
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    position: relative;
+    min-height: 150px;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.image{
+    max-height: 150px;
+    max-width: 150px;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+
+.priceStyle{
+    text-decoration: none;
+    text-align: left;
+    display: flex;
+    align-items: flex-end;
+    padding-left: 20px;
+
+}
+
+.btnBuy{
+    text-align: right;
+}
+
+.btnContainer{
+    justify-content: center;
+}
