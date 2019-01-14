@@ -15,6 +15,7 @@ import UserListView from "./UsersProductListView";
 import { TablePaginationActionsWrapped } from "../../components/TablePaginationActions/TablePaginationActions";
 import TablePagination from "@material-ui/core/TablePagination";
 import { compose, lifecycle, withHandlers, withState } from "recompose";
+import { withStyles } from "@material-ui/styles";
 
 const styles = {
   container: {
@@ -33,265 +34,25 @@ const styles = {
   },
   tab: {
     paddingBottom: 20
+  },
+  root: {
+    color: "#009688",
+    justifyContent: "center",
+    justifySelf: "center"
+  },
+  toolbar: {},
+  label: {
+    textTransform: "capitalize"
+  },
+  caption: {
+    fontSize: 20
+  },
+  selectRoot: {
+    fontSize: 15,
+    width: 50
   }
 };
-/*
-class AdminContainer extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      showModal: false,
-      typeModal: null,
-      modalParams: null,
-      tabValue: 0,
-      page: 0,
-      rowsPerPage: 8,
-      pageUsers: 0,
-      rowsPerPageUsers: 8
-    };
-  }
 
-  componentDidMount() {
-    //fetch products
-    const offset = this.state.rowsPerPage * this.state.page;
-    const limit = this.state.rowsPerPage;
-    this.props.fetchProducts({ limit, offset });
-
-    //fetch users
-    const offsetUsers = this.state.rowsPerPageUsers * this.state.pageUsers;
-    const limitUsers = this.state.rowsPerPageUsers;
-    this.props.fetchUsers({ limitUsers, offsetUsers });
-  }
-
-  componentDidUpdate(prevProps, prevState, prevContext) {
-    //update products
-    if (
-      this.state.page !== prevProps.page &&
-      this.props.products === prevProps.products &&
-      this.props.isLoading === prevProps.isLoading &&
-      this.state.tabValue === 0
-    ) {
-      const limit = this.state.rowsPerPage;
-      const offset = this.state.rowsPerPage * this.state.page;
-      this.props.fetchProducts({ limit, offset });
-    }
-
-    //update users
-
-    if (
-      this.state.pageUsers !== prevProps.pageUsers &&
-      Object.keys(this.props.users).length ===
-        Object.keys(prevProps.users).length &&
-      this.props.isUserLoading === prevProps.isUserLoading &&
-      this.state.tabValue === 1
-    ) {
-      const offsetUsers = this.state.rowsPerPageUsers * this.state.pageUsers;
-      const limitUsers = this.state.rowsPerPageUsers;
-      this.props.fetchUsers({ limitUsers, offsetUsers });
-    }
-  }
-
-  deleteUser = deleteId => {
-    this.props.deleteUser(deleteId);
-  };
-
-  deleteProduct = deleteId => {
-    this.props.deleteProduct(deleteId);
-  };
-
-  addProduct = newProduct => {
-    this.setState({
-      showModal: false
-    });
-    this.props.addProduct(newProduct);
-  };
-
-  handleOpenModal = (typeModal, modalParams = null) => {
-    this.setState({
-      showModal: true,
-      typeModal,
-      modalParams
-    });
-  };
-
-  handleCloseModal = () => {
-    this.setState({
-      showModal: false,
-      typeModal: null,
-      modalParams: null
-    });
-  };
-
-  showEditUser = () => {
-    return (
-      <ModalContainer
-        handleCloseModal={this.handleCloseModal}
-        typeModal={"EDIT_USER"}
-        {...this.state}
-      />
-    );
-    //this.props.updateUser(userId);
-  };
-
-  showAddModal = () => {
-    return (
-      <ModalContainer
-        handleCloseModal={this.handleCloseModal}
-        addProduct={this.addProduct}
-        typeModal={this.state.typeModal}
-        {...this.state}
-      />
-    );
-  };
-
-  handleChangeTabs = (event, tabValue) => {
-    this.setState({ tabValue });
-  };
-
-  handleChangePage = (event, page) => {
-    this.setState({ page });
-  };
-
-  handleChangePageUsers = (event, page) => {
-    this.setState({ pageUsers: page });
-  };
-
-  handleChangeRowsPerPage = event => {
-    this.setState({ rowsPerPage: event.target.value });
-  };
-
-  handleChangeRowsPerPageUsers = event => {
-    this.setState({ rowsPerPageUsers: event.target.value });
-  };
-
-  renderTab = value => {
-    switch (value) {
-      case 0:
-        return (
-          <Grid container justify={"center"}>
-            <TablePagination
-              rowsPerPageOptions={[8, 12, 16]}
-              count={this.props.countProducts}
-              rowsPerPage={this.state.rowsPerPage}
-              page={this.state.page}
-              onChangePage={this.handleChangePage}
-              onChangeRowsPerPage={this.handleChangeRowsPerPage}
-              ActionsComponent={TablePaginationActionsWrapped}
-              style={{ textAlign: "center" }}
-            />
-
-            <Grid item xs={8} style={styles.listProduct}>
-              <HomeProductsView
-                openModal={this.handleOpenModal}
-                deleteProduct={this.deleteProduct}
-                products={[...this.props.products].slice(
-                  this.state.rowsPerPage * this.state.page,
-                  this.state.rowsPerPage * (this.state.page + 1)
-                )}
-              />
-              {this.state.showModal && this.state.typeModal === "ADD_PRODUCT"
-                ? this.showAddModal()
-                : null}
-            </Grid>
-          </Grid>
-        );
-      case 1:
-        return (
-          <Grid container justify={"center"}>
-            <TablePagination
-              rowsPerPageOptions={[8, 12, 16]}
-              count={this.props.countUsers}
-              rowsPerPage={this.state.rowsPerPageUsers}
-              page={this.state.pageUsers}
-              onChangePage={this.handleChangePageUsers}
-              onChangeRowsPerPage={this.handleChangeRowsPerPageUsers}
-              ActionsComponent={TablePaginationActionsWrapped}
-              style={{ textAlign: "center" }}
-            />
-            <Grid item xs={8} style={styles.listProduct}>
-              <UserListView
-                showModalUser={this.handleOpenModal}
-                deleteUser={this.deleteUser}
-                users={[...this.props.users].slice(
-                  this.state.rowsPerPageUsers * this.state.pageUsers,
-                  this.state.rowsPerPageUsers * (this.state.pageUsers + 1)
-                )}
-              />
-              {this.state.showModal && this.state.typeModal === "EDIT_USER"
-                ? this.showEditUser()
-                : null}
-            </Grid>
-          </Grid>
-        );
-      default:
-        return (
-          <Grid item xs={8} style={styles.listProduct}>
-            <ErrorPage />
-          </Grid>
-        );
-    }
-  };
-
-  render() {
-    if (this.props.isLoading || this.props.isUserLoading) {
-      return <div>Loading...</div>;
-    }
-
-    if (this.props.isError) {
-      return (
-        <React.Fragment>
-          <h1>Error....</h1>
-          <p>{this.props.error}</p>
-        </React.Fragment>
-      );
-    }
-
-    return (
-      <Grid container style={styles.container}>
-        <Grid container justify={"center"} style={styles.tab}>
-          <Typography align={"center"} component={"div"}>
-            <Tabs
-              value={this.state.tabValue}
-              onChange={this.handleChangeTabs}
-              indicatorColor="primary"
-              textColor="primary"
-              scrollButtons="auto"
-            >
-              <Tab label="Products" />
-              <Tab label="Users" />
-            </Tabs>
-          </Typography>
-        </Grid>
-        <TabContainer>{this.renderTab(this.state.tabValue)}</TabContainer>
-      </Grid>
-    );
-  }
-}
-const mapStateToProps = state => ({
-  products: productsSelectors.getProducts(state),
-  users: state.users.users,
-  countProducts: state.products.countProducts,
-  countUsers: state.users.countUsers,
-  isLoading: state.products.isLoading,
-  isUserLoading: state.users.isLoadingUsers,
-  isError: !!state.products.error,
-  isUserError: !!state.users.error
-});
-
-const mapStateToDispatch = {
-  fetchProducts: productOperations.fetchProducts,
-  fetchUsers: usersOperations.fetchUsers,
-  updateProduct: productOperations.updateProducts,
-  deleteProduct: productOperations.deleteProduct,
-  deleteUser: usersOperations.deleteUser,
-  addProduct: productOperations.addProducts
-};
-
-export default connect(
-  mapStateToProps,
-  mapStateToDispatch
-)(AdminContainer);
-*/
 const mapStateToProps = state => ({
   products: productsSelectors.getProducts(state),
   users: state.users.users,
@@ -313,7 +74,8 @@ const mapStateToDispatch = {
 };
 
 const RenderTab = props => {
-  switch (props.tabValue) {
+  const { classes, tabValue } = props;
+  switch (tabValue) {
     case 0:
       return (
         <Grid container justify={"center"}>
@@ -325,7 +87,13 @@ const RenderTab = props => {
             onChangePage={props.handleChangePage}
             onChangeRowsPerPage={props.handleChangeRowsPerPage}
             ActionsComponent={TablePaginationActionsWrapped}
-            style={{ textAlign: "center" }}
+            labelRowsPerPage={"Count"}
+            classes={{
+              root: classes.root,
+              caption: classes.caption,
+              selectRoot: classes.selectRoot,
+              spacer: classes.spacer
+            }}
           />
 
           <Grid item xs={8} style={styles.listProduct}>
@@ -354,7 +122,13 @@ const RenderTab = props => {
             onChangePage={props.handleChangePageUsers}
             onChangeRowsPerPage={props.handleChangeRowsPerPageUsers}
             ActionsComponent={TablePaginationActionsWrapped}
-            style={{ textAlign: "center" }}
+            labelRowsPerPage={"Count"}
+            classes={{
+              root: classes.root,
+              caption: classes.caption,
+              selectRoot: classes.selectRoot,
+              spacer: classes.spacer
+            }}
           />
           <Grid item xs={8} style={styles.listProduct}>
             <UserListView
@@ -388,7 +162,6 @@ const showEditUser = props => {
       {...props}
     />
   );
-  //this.props.updateUser(userId);
 };
 
 const showAddModal = props => {
@@ -536,4 +309,4 @@ const enhance = compose(
   })
 );
 
-export default enhance(AdminContainer);
+export default enhance(withStyles(styles)(AdminContainer));

@@ -24,9 +24,12 @@ export const fetchUsers = props => async (dispatch, getState) => {
 
     dispatch(actions.fetchUsersStart());
     const res = await Api.User.fetchUsersLimit(
-      props.limitUsers,
-      props.offsetUsers
+      oldUsers.length === props.offsetUsers
+        ? props.limit
+        : props.limitUsers + props.offsetUsers,
+      oldUsers.length === props.offsetUsers ? props.offsetUsers : 0
     );
+
     const count = await Api.User.getCountUsers();
     const result = merge(oldUsers, res.data);
     const users = removeDuplicates(result, "id");
