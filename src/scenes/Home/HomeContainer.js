@@ -8,9 +8,7 @@ import { TablePaginationActionsWrapped } from "../../components/TablePaginationA
 import Grid from "@material-ui/core/Grid/Grid";
 import { compose, lifecycle, withHandlers, withState } from "recompose";
 import HomeProductsView from "./HomeProductsView";
-import ReactPaginate from "react-paginate";
 import { withStyles } from "@material-ui/styles";
-import Button from "@material-ui/core/Button/Button";
 
 const mapStateToProps = state => ({
   products: productsSelectors.getProducts(state),
@@ -96,7 +94,7 @@ const enhance = compose(
     mapStateToDispatch
   ),
   withState("page", "handlePages", 0),
-  withState("rowsPerPage", "handleRowsPerPage", 2),
+  withState("rowsPerPage", "handleRowsPerPage", 8),
   withHandlers({
     handleChangePage: props => (event, page) => {
       props.handlePages(page);

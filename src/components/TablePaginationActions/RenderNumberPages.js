@@ -34,6 +34,7 @@ const RenderNumberButtonsPages = props => {
     <>
       {bntList.map(numberPage => (
         <IconButton
+          key={numberPage.toString()}
           color={numberPage === page ? "secondary" : "primary"}
           onClick={e => handleTargetButtonClick(e, numberPage)}
         >

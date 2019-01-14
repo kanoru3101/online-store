@@ -7,6 +7,7 @@ export const fetchProducts = props => async (dispatch, getState) => {
   try {
     const countProducts = getState().products.countProducts;
     const oldId = getState().products.ids;
+
     if (
       (Number(countProducts) > 1 && Number(countProducts) === oldId.length) ||
       oldId.length >= props.limit + props.offset
@@ -17,8 +18,8 @@ export const fetchProducts = props => async (dispatch, getState) => {
     dispatch(actions.fetchProductsStart());
     //const res = await Api.Products.fetchProducts();
     const res = await Api.Products.fetchProductsLimit(
-      props.limit,
-      props.offset
+      oldId.length === props.offset ? props.limit : props.limit + props.offset,
+      oldId.length === props.offset ? props.offset : 0
     );
     const count = await Api.Products.getCountProducts();
     let { result, entities } = normalize(res.data, schemes.ProductCollection);

@@ -14,40 +14,40 @@ import SingIn from "./SingIn";
 import store from "store2";
 import SearchComponent from "../SearchComponent/SearchComponent";
 import AdminLink from "./AdminLink";
-import { withStyles } from '@material-ui/core/styles';
+import { withStyles } from "@material-ui/core/styles";
 
 const styles = {
   toolBarBottom: {
-    backgroundColor: '#e7efcdfa',
+    backgroundColor: "#e7efcdfa"
   },
   typography: {
     paddingRight: 30,
-    color: '#3f51b5',
-    fontWeight: 'bold',
+    color: "#3f51b5",
+    fontWeight: "bold"
   },
   cart: {
-    textDecoration: 'none',
-    color: '#009688',
-    fontWeight: 'bold',
+    textDecoration: "none",
+    color: "#009688",
+    fontWeight: "bold"
   },
-  cartMedia:{
+  cartMedia: {
     maxWidth: 220,
-    maxHeight: 70,
-}
-
-
+    maxHeight: 70
+  }
 };
 
-
 const Header = props => {
-
   return (
     <AppBar position={"relative"}>
       <Toolbar className={props.classes.toolBarBottom}>
         <Grid container justify={"center"} alignItems={"center"}>
           <Grid item xs={3}>
             <Grid container alignItems={"center"}>
-              <Typography variant="h6" color="inherit" className={props.classes.typography}>
+              <Typography
+                variant="h6"
+                color="inherit"
+                className={props.classes.typography}
+              >
                 <Link to={routes.home}>
                   <CardMedia
                     component={"img"}
@@ -71,7 +71,10 @@ const Header = props => {
               </Grid>
               <Grid item xs={4}>
                 <Grid container justify={"flex-end"}>
-                  <Typography variant={"h6"} className={props.classes.typography}>
+                  <Typography
+                    variant={"h6"}
+                    className={props.classes.typography}
+                  >
                     <SingIn {...props} />
                   </Typography>
                 </Grid>
