@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d91c53b0-e044-4126-bb4c-8e6083b71819" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/api/Api.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/api/Api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header/Header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/TablePaginationActions/RenderNumberPages.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TablePaginationActions/RenderNumberPages.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modules/products/productsOperations.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/modules/products/productsOperations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scenes/Home/HomeContainer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/scenes/Home/HomeContainer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TablePaginationActions/TablePaginationActions.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TablePaginationActions/TablePaginationActions.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/SearchComponent/SearchComponentView.js">
+        <entry file="file://$PROJECT_DIR$/src/scenes/Home/HomeContainer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2720">
-              <caret line="168" column="15" selection-start-line="168" selection-start-column="15" selection-end-line="168" selection-end-column="15" />
+            <state relative-caret-position="782">
+              <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="28" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -33,48 +30,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.js">
+        <entry file="file://$PROJECT_DIR$/src/scenes/AdminPage/AdminContainer.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="918">
-              <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/layouts/Desktop.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="49" selection-start-line="4" selection-start-column="49" selection-end-line="4" selection-end-column="49" />
+            <state relative-caret-position="304">
+              <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/modules/products/productsOperations.js">
+        <entry file="file://$PROJECT_DIR$/src/components/TablePaginationActions/TablePaginationActions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="272">
+              <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/api/Api.js">
+        <entry file="file://$PROJECT_DIR$/src/components/TablePaginationActions/RenderNumberPages.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+            <state relative-caret-position="178">
+              <caret line="29" column="60" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
               <folding>
-                <element signature="e#0#26#0" expanded="true" />
+                <element signature="e#0#54#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -93,8 +78,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>options</find>
-      <find>inputProps</find>
       <find>renderSuggestion</find>
       <find>list</find>
       <find>getSuggestionValue</find>
@@ -123,6 +106,8 @@
       <find>/es</find>
       <find>cart</find>
       <find>id</find>
+      <find>tabValue</find>
+      <find>console</find>
     </findStrings>
     <replaceStrings>
       <replace>Ok</replace>
@@ -141,8 +126,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/ProductLink/ProductLink.module.css" />
-        <option value="$PROJECT_DIR$/src/components/ProductLink/UserProductLink.js" />
         <option value="$PROJECT_DIR$/src/scenes/Home/UserProductListView.js" />
         <option value="$PROJECT_DIR$/src/components/ProductLink/UserProductLink.module.css" />
         <option value="$PROJECT_DIR$/src/components/ProductLink/UserProductLink/UserProductLink.module.css" />
@@ -187,11 +170,13 @@
         <option value="$PROJECT_DIR$/src/components/Modal/Modal.js" />
         <option value="$PROJECT_DIR$/src/layouts/Desktop.js" />
         <option value="$PROJECT_DIR$/package.json" />
-        <option value="$PROJECT_DIR$/src/components/TablePaginationActions/TablePaginationActions.js" />
         <option value="$PROJECT_DIR$/src/scenes/Home/HomeContainer.js" />
-        <option value="$PROJECT_DIR$/src/components/TablePaginationActions/RenderNumberPages.js" />
-        <option value="$PROJECT_DIR$/src/api/Api.js" />
         <option value="$PROJECT_DIR$/src/modules/products/productsOperations.js" />
+        <option value="$PROJECT_DIR$/src/api/Api.js" />
+        <option value="$PROJECT_DIR$/src/modules/users/usersOperations.js" />
+        <option value="$PROJECT_DIR$/src/scenes/AdminPage/AdminContainer.js" />
+        <option value="$PROJECT_DIR$/src/components/TablePaginationActions/RenderNumberPages.js" />
+        <option value="$PROJECT_DIR$/src/components/TablePaginationActions/TablePaginationActions.js" />
       </list>
     </option>
   </component>
@@ -283,6 +268,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="modules" type="462c0819:PsiDirectoryNode" />
               <item name="entities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="online-store" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="users" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="online-store" type="b2602c69:ProjectViewProjectNode" />
@@ -441,21 +433,7 @@
       <workItem from="1546787516106" duration="18472000" />
       <workItem from="1547220327891" duration="3954000" />
       <workItem from="1547224542051" duration="14926000" />
-      <workItem from="1547472657749" duration="6412000" />
-    </task>
-    <task id="LOCAL-00037" summary="add pagination for home page">
-      <created>1542751466300</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1542751466300</updated>
-    </task>
-    <task id="LOCAL-00038" summary="add pagination for Home page">
-      <created>1542799990815</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1542799990815</updated>
+      <workItem from="1547472657749" duration="7988000" />
     </task>
     <task id="LOCAL-00039" summary="fixed product page and edit page">
       <created>1542802740946</created>
@@ -786,11 +764,25 @@
       <option name="project" value="LOCAL" />
       <updated>1547477804145</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="fixed parse products">
+      <created>1547479261189</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1547479261189</updated>
+    </task>
+    <task id="LOCAL-00087" summary="fixed parse users and update TablePagination at Admin Panel">
+      <created>1547480012261</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1547480012261</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="886590000" />
+    <option name="totallyTimeSpent" value="888166000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -805,7 +797,7 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.6912752" visible="true" weight="0.20684524" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.6912752" visible="true" weight="0.20684524" />
       <window_info id="Structure" order="1" sideWeight="0.50163937" side_tool="true" weight="0.19419643" />
       <window_info id="npm" order="2" sideWeight="0.30872482" side_tool="true" weight="0.20684524" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -820,7 +812,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49702382" weight="0.61702126" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.4263393" side_tool="true" weight="0.44026187" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.85714287" visible="true" weight="0.3371522" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.85714287" visible="true" weight="0.1685761" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49479166" weight="0.4442623" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -893,8 +885,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add number filter for price at Add product page" />
-    <MESSAGE value="fixed number for price at add page" />
     <MESSAGE value="fixed api" />
     <MESSAGE value="hide password at login and register" />
     <MESSAGE value="rewrite on recompose: ModalContainer, RememberPass" />
@@ -918,7 +908,9 @@
     <MESSAGE value="fixed heroku api" />
     <MESSAGE value="fixed stylles" />
     <MESSAGE value="add number buttons for TablePaginate" />
-    <option name="LAST_COMMIT_MESSAGE" value="add number buttons for TablePaginate" />
+    <MESSAGE value="fixed parse products" />
+    <MESSAGE value="fixed parse users and update TablePagination at Admin Panel" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed parse users and update TablePagination at Admin Panel" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -932,20 +924,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/modules/search/searchOperations.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-autosuggest/dist/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-autosuggest/dist/Autosuggest.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -1011,16 +989,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/AdminPage/AdminContainer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5013">
-          <caret line="295" column="30" selection-start-line="295" selection-start-column="30" selection-end-line="295" selection-end-column="30" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/modules/entities/entitiesReducer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1053,13 +1021,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="27" column="23" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/cart/cartOperations.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="5" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1184,40 +1145,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/SearchComponent/SearchComponentView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2720">
-          <caret line="168" column="15" selection-start-line="168" selection-start-column="15" selection-end-line="168" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="918">
-          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/TablePaginationActions/TablePaginationActions.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="150" column="60" lean-forward="true" selection-start-line="150" selection-start-column="26" selection-end-line="150" selection-end-column="60" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/scenes/Home/OldHomeContainer.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1242,16 +1169,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/TablePaginationActions/RenderNumberPages.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="35" column="19" lean-forward="true" selection-start-line="35" selection-start-column="19" selection-end-line="35" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/ProductLink/UserProductLink/UserProductLink.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1269,20 +1186,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/scenes/Home/HomeContainer.js">
+    <entry file="file://$PROJECT_DIR$/src/components/ProductLink/UserProductLink/UserProductLinkView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="89">
-          <caret line="62" column="13" selection-start-line="62" selection-start-column="13" selection-end-line="62" selection-end-column="13" />
+        <state relative-caret-position="-727">
+          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/api/Api.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-723">
+          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/ProductLink/UserProductLink/UserProductLinkView.js">
+    <entry file="file://$PROJECT_DIR$/src/modules/cart/cartOperations.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-727">
-          <caret line="42" column="6" selection-start-line="42" selection-start-column="6" selection-end-line="42" selection-end-column="6" />
+        <state relative-caret-position="527">
+          <caret line="34" column="5" lean-forward="true" selection-start-line="31" selection-start-column="4" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/users/usersOperations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="24" column="40" selection-start-line="24" selection-start-column="40" selection-end-line="24" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#42#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/modules/products/productsOperations.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="54" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="21" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -1293,20 +1234,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/api/Api.js">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="37" column="13" selection-start-line="37" selection-start-column="13" selection-end-line="37" selection-end-column="13" />
+        <state relative-caret-position="107">
+          <caret line="54" column="35" selection-start-line="54" selection-start-column="35" selection-end-line="54" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="50" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/SearchComponent/SearchComponentView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="168" column="15" selection-start-line="168" selection-start-column="15" selection-end-line="168" selection-end-column="15" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/modules/products/productsOperations.js">
+    <entry file="file://$PROJECT_DIR$/src/scenes/Home/HomeContainer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="782">
+          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/@material-ui/core/IconButton/IconButton.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/TablePaginationActions/RenderNumberPages.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="29" column="60" selection-start-line="29" selection-start-column="60" selection-end-line="29" selection-end-column="60" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scenes/AdminPage/AdminContainer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="51" column="13" lean-forward="true" selection-start-line="51" selection-start-column="13" selection-end-line="51" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/TablePaginationActions/TablePaginationActions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="13" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

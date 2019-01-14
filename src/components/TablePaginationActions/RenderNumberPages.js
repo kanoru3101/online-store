@@ -27,7 +27,7 @@ const createButtonList = (page, rowsPerPage, count) => {
 };
 
 const RenderNumberButtonsPages = props => {
-  const { page, handleTargetButtonClick, rowsPerPage, count } = props;
+  const { page, handleTargetButtonClick, rowsPerPage, count, classes } = props;
   const bntList = createButtonList(page, rowsPerPage, count);
 
   return (
@@ -37,6 +37,7 @@ const RenderNumberButtonsPages = props => {
           key={numberPage.toString()}
           color={numberPage === page ? "secondary" : "primary"}
           onClick={e => handleTargetButtonClick(e, numberPage)}
+          className={classes.numberButtons}
         >
           {numberPage + 1}
         </IconButton>
