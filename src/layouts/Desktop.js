@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { Redirect, Route, Switch } from "react-router-dom";
 import { routes } from "../routes";
-import HomeContainer from "../scenes/Home/OldHomeContainer";
+import HomeContainer from "../scenes/Home/HomeContainer";
 import Header from "../components/Header/Header";
 import Footer from "../components/Footer/Footer";
 import AdminContainer from "../scenes/AdminPage/AdminContainer";

@@ -37,7 +37,7 @@ const styles = {
     textTransform: "capitalize"
   },
   caption: {
-    fontSize: 15
+    fontSize: 20
   },
   selectRoot: {
     fontSize: 15,

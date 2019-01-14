@@ -3,8 +3,8 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 import Desktop from "./layouts/Desktop";
 import { compose } from "recompose";
 import { createMuiTheme, MuiThemeProvider } from "@material-ui/core/styles";
-import {createGenerateClassName} from 'react-jss';
-import JssProvider from 'react-jss/lib/JssProvider';
+import { createGenerateClassName } from "react-jss";
+import JssProvider from "react-jss/lib/JssProvider";
 
 const theme = createMuiTheme({
   palette: {
@@ -46,7 +46,6 @@ const theme = createMuiTheme({
 function App() {
   const generateClassName = createGenerateClassName();
   return (
-
     <JssProvider generateClassName={generateClassName}>
       <MuiThemeProvider theme={theme}>
         <Router>
